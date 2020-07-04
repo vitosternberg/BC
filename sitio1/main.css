@@ -1,0 +1,78 @@
+.left-box{
+    background-color:#FFF;
+    color: black;
+
+
+}
+.titulo h1{
+    font-family:"Sacramento";
+    font-size: 35px;
+    Color: #053216;
+}
+
+.sub-titulo {
+    font-family:"Barlow Condensed";
+    font-size: 20px;
+     color: rgb(101, 130, 138);
+     padding: 10px;
+}
+.titulo-left{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: rgb(101, 130, 138);
+    font-weight: bold;
+
+}
+
+.parrafo {
+    font-family:"Barlow Condensed";
+    font-size: 20px;
+    font-weight: normal;
+}
+.box-service{
+  
+    padding: 10%;
+    color: #61A97C;
+    display: flex;
+  align-items: center;
+  
+}
+
+.box-service-bg{
+     padding: 5%;
+     background: #0f0c29;  /* fallback for old browsers */
+     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+     background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color:white;
+   
+}
+
+
+.box-service h1{
+    font-family:"Sacramento";
+    font-size: 50px;
+    font-weight: normal;
+    
+}
+
+.box-service h3{
+    font-family:"Barlow Condensed";
+    font-size: 30px;
+    font-weight: bold;
+   
+   
+}
+.box-service p{
+    font-family:"Barlow Condensed";
+    font-size: 20px;
+    font-weight: normal;
+    
+}
+.form{
+    border-radius: 10px;
+    background:#D5EAFA;
+    
+}
+.btn_cyan{
+    color: white;
+}
